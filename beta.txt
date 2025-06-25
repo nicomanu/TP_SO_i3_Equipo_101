@@ -68,3 +68,41 @@ Adaptador de Ethernet Ethernet 3:
    M scara de subred . . . . . . . . . . . . : 255.255.255.0
    Puerta de enlace predeterminada . . . . . : 
 Hora: 12:18
+Nombre: Geronimo Bisanzio
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::95c0:3034:5e7a:3100%15
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Conexi¢n de  rea local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+
+Adaptador de LAN inal mbrica Wi-Fi:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   Direcci¢n IPv6 . . . . . . . . . . : 2802:8010:61fa:6501:235e:2b02:384e:1e22
+   Direcci¢n IPv6 temporal. . . . . . : 2802:8010:61fa:6501:8ca1:3de7:5319:31af
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::41c2:4b4e:3be9:4341%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.1.36
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::f652:46ff:fe24:6a50%7
+                                       192.168.1.1
+
+Adaptador de Ethernet Conexi¢n de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
