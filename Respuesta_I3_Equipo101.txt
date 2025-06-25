@@ -27,3 +27,16 @@ echo "Hora: " >> beta.txt
 git add beta.txt
 git commit -m ""
 git push
+
+RESPONDE ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git checkout morales
+git pull 
+
+echo "Nombre: Geronimo Bisanzio - Hora: 12:05" >> beta.txt
+ifconfig >> beta.txt
+
+git add beta.txt
+git commit -m ""
+git push 
