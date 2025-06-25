@@ -9,3 +9,21 @@ comandos utilizados:
   git pull origin main
   git merge boiro
   git push origin main
+Responde GAMMA:
+d- ¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+Sí. La rama gamma contiene los datos de los tres integrantes antes del merge. La rama beta también fue actualizada por BETA, GAMMA y ALFA luego del merge, cada uno agregando su parte al archivo beta.txt.
+
+e- ¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+El problema principal fue que datos.txt fue editado por más de una persona en distintas líneas. Git detectó conflictos durante el merge que debieron resolverse manualmente. También hubo problemas al hacer push si la rama remota ya tenía cambios que no estaban en local. solución: git push --set-upstream morales
+
+f- ¿Qué debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git checkout morales
+git pull
+
+echo "Nombre: Lautaro Boiro" >> beta.txt
+ipconfig >> beta.txt
+echo "Hora: " >> beta.txt
+
+git add beta.txt
+git commit -m ""
+git push
